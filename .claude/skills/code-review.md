@@ -1,4 +1,5 @@
 ---
+name: code-review
 description: 'Provides a code review of the attached code changes.'
 ---
 # Code Review Feedback

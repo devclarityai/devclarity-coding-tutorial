@@ -1,4 +1,5 @@
 ---
+name: task-creator
 description: 'Creates an implementation plan markdown file from a task description.'
 ---
 # Task Creator
