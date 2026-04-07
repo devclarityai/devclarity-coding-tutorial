@@ -1,5 +1,6 @@
 ---
-description: 'Begins implementing a task following an implementation plan.'
+name: implement-it
+description: Begins implementing a task following an implementation plan. Use when the user asks to implement a feature, fix a bug, or build something based on an existing plan or task file.
 ---
 # Step-by-Step Implementation Process
 

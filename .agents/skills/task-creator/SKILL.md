@@ -1,5 +1,6 @@
 ---
-description: 'Creates an implementation plan markdown file from a task description.'
+name: task-creator
+description: Creates an implementation plan markdown file from a task description. Use when the user describes a new feature or task and wants a structured plan before implementation begins.
 ---
 # Task Creator
 

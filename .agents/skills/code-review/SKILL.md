@@ -1,5 +1,6 @@
 ---
-description: 'Provides a code review of the attached code changes.'
+name: code-review
+description: Provides a code review of the attached code changes. Use when the user asks for a code review, PR review, or feedback on code changes.
 ---
 # Code Review Feedback
 
@@ -11,10 +12,10 @@ Review the attached code changes and provide a code review.
 
 ## Code Quality
 
-### Strengths ✨
+### Strengths
 - [Highlight positive aspects of the implementation]
 
-### Areas for Improvement 🔧
+### Areas for Improvement
 - [List specific issues that should be addressed]
 
 ## Technical Review

@@ -1,5 +1,6 @@
 ---
-description: 'Provides a brief explanation of the code attached, including key components, notable patterns, and a code walkthrough.'
+name: code-explainer
+description: Provides a brief explanation of the code attached, including key components, notable patterns, and a code walkthrough. Use when the user asks to explain, understand, or walk through code.
 ---
 # Code Explainer
 
